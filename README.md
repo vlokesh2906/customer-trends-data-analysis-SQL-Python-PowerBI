@@ -85,13 +85,7 @@ The Power BI dashboard is designed to help users explore customer shopping behav
 
 **Dashboard Preview**
 
-Add your dashboard screenshot here after uploading it to the repository.
-
-Example:
-
-`![Customer Shopping Behavior Dashboard](Customer_Behaviour.png)`
-
-Replace `Customer_Behaviour.png` with the actual image filename in your repository.
+<img width="2006" height="1102" alt="Screenshot 2026-10-14 174257" src="https://github.com/user-attachments/assets/a276dfec-24c2-4352-b332-d14195be54a9" />
 
 ## 📈 Key Business Questions
 
@@ -106,8 +100,6 @@ The analysis aims to answer questions such as:
 
 ## 💡 Results and Business Recommendations
 
-Use the completed analysis to document your actual findings.
-
 Potential recommendations, depending on the results, include:
 
 * Develop targeted marketing campaigns for valuable customer segments.
@@ -115,26 +107,6 @@ Potential recommendations, depending on the results, include:
 * Evaluate discount effectiveness across product categories.
 * Improve subscription offerings to encourage customer engagement.
 * Use customer preferences to support product and marketing decisions.
-
-*Note: Add specific numerical results only after verifying them against your SQL queries, notebook, and Power BI dashboard.*
-
-## 📁 Project Structure
-
-```text
-customer-trends-data-analysis-SQL-Python-PowerBI/
-│
-├── README.md
-├── customer_shopping_behavior.csv
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_behaviour_sql_queries.sql
-├── Customer_Behaviour.pbix
-├── Customer_Behaviour.png
-├── Customer Shopping Behavior Analysis.pdf
-├── Business Problem Document.pdf
-└── Customer-Shopping-Behavior-Analysis.pptx
-```
-
-*Update the filenames above to match the actual files in your repository.*
 
 ## ⚙️ How to Run the Project
 
@@ -205,4 +177,3 @@ Open the project report and presentation files to review the methodology, findin
 
 This project demonstrates an end-to-end data analytics workflow, from preparing customer data and analyzing business questions to presenting findings through an interactive dashboard. It showcases practical skills in Python, SQL, Power BI, and data-driven decision-making.
 
-If you find this project useful, feel free to explore the repository and share your feedback.
